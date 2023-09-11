@@ -33,6 +33,10 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
+		// 1. 컨트롤러 기능 구현
+		
+		
+		
 		return "home";
 	}
 	
